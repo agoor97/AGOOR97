@@ -1,5 +1,5 @@
 <h1 align="center"> Hi <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" width="55" height="55">, This is MOHAMMED AGOOR </h1>
-<h3 align="center"> Machine Learning Engineer/Data Scientist </h3>
+<h3 align="center"> Machine Learning Engineer | Data Scientist </h3>
  
 
 ### Contact with me:
@@ -34,5 +34,4 @@
 <br>
  
  ##  &#x1f4c8;  GitHub Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AGOOR97&show_icons=true&theme=tokyonight)
-
+![Agoor's GitHub stats](https://github-readme-stats.vercel.app/api?username=AGOOR97&show_icons=true&theme=tokyonight)
