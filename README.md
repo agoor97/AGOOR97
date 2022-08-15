@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammed Agoor</h1>
 
-I'm an innovative and scientifically rigorous Artificial Intelligence Engineer with significant experience in data science, machine learning, deep learning, computer vision, NLP, time series forecasting, and recommendation engines, with a team-oriented attitude. <br>
+<p> I'm an innovative and scientifically rigorous Artificial Intelligence Engineer with significant experience in data science, machine learning, deep learning, computer vision, NLP, time series forecasting, and recommendation engines, with a team-oriented attitude. </p> <br>
 
 I'm eager to contribute my abilities in modeling, analysis, visualization, and experimentation to enhance your results and provide solutions for your business. <br>
 
