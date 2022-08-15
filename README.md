@@ -2,9 +2,9 @@
 
 #### I'm an innovative and scientifically rigorous Artificial Intelligence Engineer with significant experience in data science, machine learning, deep learning, computer vision, NLP, time series forecasting, and recommendation engines, with a team-oriented attitude. <br>
 
-I'm eager to contribute my abilities in modeling, analysis, visualization, and experimentation to enhance your results and provide solutions for your business. <br>
+#### I'm eager to contribute my abilities in modeling, analysis, visualization, and experimentation to enhance your results and provide solutions for your business. <br>
 
-I'm teaching data analysis, data science, machine learning, deep learning, computer vision, NLP, and more. Hopefully, this will enrich the Arabic content of AI.
+#### I'm teaching data analysis, data science, machine learning, deep learning, computer vision, NLP, and more. Hopefully, this will enrich the Arabic content of AI.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agoor97&label=Profile%20views&color=0e75b6&style=flat" alt="agoor97" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=agoor97" alt="agoor97" /></a> </p>
