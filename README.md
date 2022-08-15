@@ -9,12 +9,7 @@ I'm teaching data analysis, data science, machine learning, deep learning, compu
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agoor97&label=Profile%20views&color=0e75b6&style=flat" alt="agoor97" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=agoor97" alt="agoor97" /></a> </p>
 
-
-<br>
-
--------------------------------------------------------
-
-<h3 align="left">Contacts with me:</h3>
+<h3 align="left">Portfolio & Profiles</h3>
 <a href="https://mohammed-agoor.herokuapp.com/">
 <img align="left" alt="site" src="https://www.kindpng.com/picc/m/20-204227_website-search-logo-png-transparent-png.png" width="32" height="32">
 </a>
