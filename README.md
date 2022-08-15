@@ -5,14 +5,14 @@
 ### Contact with me:
 
 <a href="https://mohammed-agoor.herokuapp.com/">
-<img align="left" alt="site" src="https://png.pngtree.com/png-clipart/20190520/original/pngtree-vector-web-search-icon-png-image_4140340.jpg" width="32" height="32">
+<img align="left" alt="site" src="https://www.kindpng.com/picc/m/20-204227_website-search-logo-png-transparent-png.png" width="32" height="32">
 </a>
 
 <a href="https://www.kaggle.com/mohammedagoor" target="blank">
-  <img align="left" alt="Github" src="https://image.flaticon.com/icons/png/512/733/733553.png"  width="32" height="32">
+  <img align="left" alt="kaggle" src="https://cdn.iconscout.com/icon/free/png-256/kaggle-3629460-3031523.png"  width="32" height="32">
   </a>
 <a href="https://www.linkedin.com/in/mlagoor/">
-<img align="left" alt="Linkedin" src="https://cdn.freelogovectors.net/wp-content/uploads/2020/01/linkedin-logo.png" width="32" height="32">
+<img align="left" alt="Linkedin" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" width="32" height="32">
 </a>
 
 
